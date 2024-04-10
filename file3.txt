@@ -1,8 +1,6 @@
 white
-pink
 violet
 grey
-red
 blue
 green
 orange
