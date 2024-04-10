@@ -1,4 +1,4 @@
-white
+red
 violet
 grey
 blue
@@ -6,3 +6,4 @@ green
 orange
 brown
 black
+sky blue
